@@ -397,7 +397,7 @@ li[data-key=showusers] > a #online_count {
   height: 18px;
   margin: 0;
   border: 0;
-  width: 122px;
+  width: 322px;
   background: transparent;
 }
 #myusernameform input.editable {
@@ -940,13 +940,13 @@ input[type=checkbox] {
   height: auto !important;
   border: none !important;
   border-left: 1px solid #ccc !important;
-  width: 185px !important;
+  width: 382px !important;
 }
 .chatAndUsers{
   display:block !important;
   right:0px !important;
   border-radius:0px !important;
-  width:182px !important;
+  width:382px !important;
 /* Below makes UI look weird when X makes editbar flow onto two lines */
 /*  margin:2px 0 0 0 !important;*/
   border: none !important;
@@ -966,7 +966,7 @@ input[type=checkbox] {
   padding:0 !important;
   margin: 165px 0px 0px 0px;
   right:0 !important;
-  width:182px !important;
+  width:382px !important;
   border: none !important;
   padding:5px !important;
   border-left: 1px solid #ccc !important;
@@ -1304,5 +1304,3 @@ input[type=checkbox] {
 .hideControlsEditbar{
   display:none !important;
 }
-
-
